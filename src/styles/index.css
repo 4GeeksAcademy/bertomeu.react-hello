@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    background-image: url(https://res.cloudinary.com/dyvut6idr/image/upload/v1720452379/clouds-4215608_gzp2km.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    
+}
